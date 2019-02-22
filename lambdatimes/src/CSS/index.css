@@ -121,12 +121,6 @@ body {
   cursor: pointer;
 }
 
-@media (min-width: 1280px) {
-  .header {
-    width: 1280px;
-  }
-}
-
 .content-container {
   display: flex; 
   flex-direction: column; 
